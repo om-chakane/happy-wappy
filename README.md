@@ -58,7 +58,7 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>Best-README-Template/README.md at master · othneildrew/Best-README-Template</title>
+  <title>Automatic Image Captioner/README.md at master · othneildrew/Best-README-Template</title>
     <meta name="description" content="An awesome README template to jumpstart your projects!  - othneildrew/Best-README-Template">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
